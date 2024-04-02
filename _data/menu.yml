@@ -4,7 +4,7 @@
 entries:
   - title: info
     entries:
-      - title: labas labas labas
+      - title: welcome to my barebones blog page!
       - title: my github repo
         url: https://github.com/dzastsed
       - title: posting random stuff i make
@@ -25,10 +25,5 @@ entries:
   - title: rss
     url: feed.xml
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
+  - title: about me
+    url: about
