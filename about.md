@@ -1,8 +1,7 @@
 ---
 layout: page
-title: About
+title: About me
 ---
 
-This is an example page!
-
-It's very similar to a `post` layout, with the only difference that the publish date is not shown!
+I'm a 20 year old university student who just does random stuff.
+My interests are video game console modding related (some blog posts may cover topics like that), video game cut/beta content and small hardware projects.
