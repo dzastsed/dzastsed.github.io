@@ -2,12 +2,13 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: welcome to my barebones blog page!
+  - title: here you will find:
     entries:
-      - title: welcome to my barebones blog page!
-      - title: my github repo
+      - title: beta build stuff
+      - title: projects that I may make descriptions
         url: https://github.com/dzastsed
-      - title: posting random stuff i make
+      - title: and other stuff I felt like documenting
   - title: all posts
     post_list:
       limit: 5
@@ -15,15 +16,6 @@ entries:
       show_more_text: See archive...
       show_more_url: archive.html
 
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
   
   - title: about me
     url: about
