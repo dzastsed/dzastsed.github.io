@@ -28,7 +28,7 @@ Here you can find miscellaneous demos, preloads, and other similar uploads.
 
 * [Need For Speed Demo Archives](https://archive.org/details/nfs_demos)
 
-Huge thanks to DAK for making a good base structure of this page!
+
 
 ## FAQ
 
@@ -40,3 +40,17 @@ Huge thanks to DAK for making a good base structure of this page!
 
 * Worry not, there is a way to download those builds way faster! There are two ways, which will be covered in [this page](https://dzastsed.github.io/archive-org-faster-downloads.html).
 
+## Credits
+
+- Demon/Damien - for dumping majority of those builds
+- AlphaArchive MEGA for hosting majority of those builds so I didn't have to waste time link hunting
+- HiddenPalace - for some builds too
+- Vaporbooi - sending over some links of various demos and prototypes I missed
+- Speedyheart - some mw12 builds
+- Gzilla - nfs heat/payback related stuff
+- Micky/EmilisB - mw12 and rivals builds
+- Burninrubber0 - ea crew other archive version and uc build
+- lilpoop and blueskywestside - for archiving and reuploading majority of my megadrop
+- DAK - for making a good base structure of this page
+
+- And many others whose names I can't remember
