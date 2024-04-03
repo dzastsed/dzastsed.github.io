@@ -65,7 +65,7 @@ This method will be slightly more advanced, as we will use a CLI program called 
 
 ### Step 2
 
-Unpack the downloaded executable. You can place it anywhere, like in your ``Downloads`` directory. You could also add it to ``PATH`` so it can get called from anywhere. This guide will asume you placed it in ``Downloads``.
+Unpack the downloaded executable. You can place it anywhere, like in your ``Downloads`` directory. You could also add it to ``PATH`` so it can get called from anywhere. This guide will assume you placed it in ``Downloads``.
 
 ### Step 3
 
