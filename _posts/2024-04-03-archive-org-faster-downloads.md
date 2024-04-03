@@ -9,7 +9,7 @@ category: guides
 
 ---
 
-## [First method](first-method)
+## [First method](#first-method)
 
 We will use a program called [JDownloader2](https://jdownloader.org/jdownloader2) in this method.
 
@@ -53,7 +53,9 @@ Right click on the entry, and select ``Start downloads``. Change the download di
 
 That's it! Now the file should be downloading at way faster speeds!
 
-## [Second method](second-method)
+---
+
+## [Second method](#second-method)
 
 This method will be slightly more advanced, as we will use a CLI program called [aria2c](https://github.com/aria2/aria2/releases/tag/release-1.37.0).
 
