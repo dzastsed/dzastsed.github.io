@@ -33,8 +33,10 @@ Huge thanks to DAK for making a good base structure of this page!
 ## FAQ
 
 > How can I run \<insert build name here>?
+
 * There will be guides made for most, if not all builds. If you want me to add your guide, let me know on discord!
 
 > Download speeds are terrible, what do I do?
+
 * Worry not, there is a way to download those builds way faster! There are two ways, which will be covered in [this page](https://dzastsed.github.io/archive-org-faster-downloads.html).
 
