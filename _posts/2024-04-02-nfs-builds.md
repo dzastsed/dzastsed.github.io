@@ -27,6 +27,7 @@ A list of links on archive.org, containing prototype builds of various Need For 
 Here you can find miscellaneous demos, preloads, and other similar uploads.
 
 * [Need For Speed Demo Archives](https://archive.org/details/nfs_demos)
+* [Need For Speed World Archives](https://archive.org/details/nfsw_builds)
 
 
 
