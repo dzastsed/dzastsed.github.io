@@ -87,9 +87,11 @@ Your contributions may help in discovering new things! I will soon write an arti
 ## [FAQ](#faq)
 
 > My console does not launch "Simple NAND Flasher", what should I do?
+
 * While in my experimentations it worked as low as dash version 6719, there may be several problems - try re-downloading or re-copying files onto the console, if that does not help, try dumping with Xell webui, or another tool, like [Nand flasher](https://digiex.net/threads/nand-flasher-360-for-xbox-360-v1-2-0-download.9573/). 
 
 > I cannot shadowboot? Help?
+
 * This is most likely caused by your console being a testkit. For that, you would need to follow a completely different guide which I cannot write as I don't own a real testkit. For CPU key acquisition you may use HVXdump but that requires you downgrading your console to a lower flash.
 
 
