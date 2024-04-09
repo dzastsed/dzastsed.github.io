@@ -20,7 +20,7 @@ It allows loading of external plugins, for example, stealth servers.
 This is a completely safe and fully reversible modification because it does not involve any modifications to internal flash, and pretty much is the same like using Phoenix Bios Loader on OG Xbox or emunand on Nintendo Switch.
 
 ## [Requirements](#requirements)
-- Xbox 360 __development__ kit. Fat test kits __WILL NOT__ work because they require a completely different method. Slim testkits, which have sidecar port, will work.
+- Xbox 360 <u>development</u> kit. Fat test kits <u>WILL NOT</u> work because they require a completely different method. Slim testkits, which have sidecar port, will work.
 - [Main RGLoader files](https://drive.google.com/file/d/1X7D3hGnJv8U1Z84jiJoQ305kUzKN83Vf/view?usp=drive_link)
 * A way to copy files over to XDK - neighborhood is recommended. You may follow a guide I mention [here](https://dzastsed.github.io/how-to-dump-your-xdk-nand-preservation-of-undumped-recoveries.html#preparations).
 
