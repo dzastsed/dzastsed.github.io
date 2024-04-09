@@ -14,6 +14,8 @@ category: guides
 
 # IMPORTANT - MAKE SURE YOU DUMP YOUR HARDDRIVE BEFORE FOLLOWING THIS GUIDE!!! YOU HAVE BEEN WARNED!!!!
 
+---
+
 ## [Intro](#intro)
 
 Just a small guide for XDK nand dumping, but this is a start of a base for a bigger thing that I want to: undumped XDK version preservation.
@@ -35,7 +37,6 @@ While this is optional, I heavily recommend setting up KDNet as well, in case sh
 Anyway, after everything previously mentioned is set up, you'll need to download these files:
 
 * [Simple Nand Flasher](temp-link)
-* [RGLoader shadowboot files for devkit](temp-link)
 * [Xell Launch](https://digiex.net/attachments/xelllaunch-zip.7168/)
 
 After this we may proceed to the:
@@ -53,9 +54,9 @@ After dumping, copy out your NAND to your computer using neighborhood.
 
 ### 2. Shadowbooting RGLoader
 
-Follow [this](temp-link-rgl) guide to set up RGLoader shadowbooting. After successful boot, come back here.
+Follow [this](https://dzastsed.github.io/rgloader-shadowboot-guide.html) guide to set up RGLoader shadowbooting. After successful boot, come back here.
 
-*Console does not shadowboot? go to [FAQ](#faq).*
+*Console does not shadowboot? go to [FAQ](https://dzastsed.github.io/rgloader-shadowboot-guide.html#faq).*
 
 ### 3. Acquiring CPU Key
 
