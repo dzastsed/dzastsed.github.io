@@ -2,7 +2,6 @@
 layout: post
 category: guides
 ---
-## How to dump your XDK Nand + preservation of undumped recoveries
 ## Table of contents
 
 - [Intro](#intro)
@@ -26,7 +25,7 @@ Anyway enough talk, let's get to work!
 
 ## [Preparations](#preparations)
 
-This guide assumes that you have XDK and neighborhood installed and console connection set up. If you have not, this guide should cover that: <iframe width="560" height="315" src="https://www.youtube.com/embed/XKYcsjPuq2U?si=VoaSvZpIas5NHdwH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+This guide assumes that you have XDK and neighborhood installed and console connection set up. If you have not, this guide should cover that: https://www.youtube.com/watch?v=XKYcsjPuq2U
 
 > IMPORTANT - Ignore XeXmenu (or any plugin installation) requirement, you only need to find console IP address and connect over ethernet.
 
@@ -44,7 +43,7 @@ After this we may proceed to the:
 
 ### 1. Dumping NAND
 
-First of all, dump your NAND. To do this, you'll need to unpack previously downloaded [Simple Nand Flasher](temp-link), and copy it over to your console HDD. Recommended path is `HDD:/Devkit/` as then Xshell would pick it up. To dump your NAND, follow this guide: <iframe width="560" height="315" src="https://www.youtube.com/embed/X2RUwKoEFqk?si=SvRPQ7GDrkUkYda3&amp;start=444" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+First of all, dump your NAND. To do this, you'll need to unpack previously downloaded [Simple Nand Flasher](temp-link), and copy it over to your console HDD. Recommended path is `HDD:/Devkit/` as then Xshell would pick it up. To dump your NAND, follow this guide: https://www.youtube.com/watch?v=X2RUwKoEFqk&t=444s
 > Follow from 7:24 to 9:20, after that, go back to this guide.
 
 After dumping, copy out your NAND to your computer using neighborhood.
