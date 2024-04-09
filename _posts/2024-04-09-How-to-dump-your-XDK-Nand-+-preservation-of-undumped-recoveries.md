@@ -25,7 +25,8 @@ Anyway enough talk, let's get to work!
 
 ## [Preparations](#preparations)
 
-This guide assumes that you have XDK and neighborhood installed and console connection set up. If you have not, this guide should cover that: https://www.youtube.com/watch?v=XKYcsjPuq2U
+This guide assumes that you have XDK and neighborhood installed and console connection set up. If you have not, this [guide](https://www.youtube.com/watch?v=XKYcsjPuq2U
+) should cover that.
 
 > IMPORTANT - Ignore XeXmenu (or any plugin installation) requirement, you only need to find console IP address and connect over ethernet.
 
@@ -43,7 +44,7 @@ After this we may proceed to the:
 
 ### 1. Dumping NAND
 
-First of all, dump your NAND. To do this, you'll need to unpack previously downloaded [Simple Nand Flasher](temp-link), and copy it over to your console HDD. Recommended path is `HDD:/Devkit/` as then Xshell would pick it up. To dump your NAND, follow this guide: https://www.youtube.com/watch?v=X2RUwKoEFqk&t=444s
+First of all, dump your NAND. To do this, you'll need to unpack previously downloaded [Simple Nand Flasher](temp-link), and copy it over to your console HDD. Recommended path is `HDD:/Devkit/` as then Xshell would pick it up. To dump your NAND, follow [this](https://www.youtube.com/watch?v=X2RUwKoEFqk&t=444s) guide.
 > Follow from 7:24 to 9:20, after that, go back to this guide.
 
 After dumping, copy out your NAND to your computer using neighborhood.
