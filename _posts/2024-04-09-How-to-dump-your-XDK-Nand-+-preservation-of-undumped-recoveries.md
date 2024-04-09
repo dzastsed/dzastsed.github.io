@@ -18,7 +18,7 @@ category: guides
 
 ## [Intro](#intro)
 
-Just a small guide for XDK nand dumping, but this is a start of a base for a bigger thing that I want to: undumped XDK version preservation.
+Just a small guide for XDK nand dumping, but this is a start of a base for a bigger thing that I want to do: undumped XDK version preservation.
 
 List of publicly XDK recoveries is quite huge, some even have beta dashboards in them (take 11026 for example), but many are not dumped as well! A few years ago one console with version 8985 which made me interested in doing all this: not only this version was not present in any known remote or disc recoveries, but it also was an internal dashboard (has debug entries in menus), and it uses SF and SG bootloaders!
 *(that is a huge thing which I will talk about sometime.)* 
