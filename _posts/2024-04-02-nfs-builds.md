@@ -8,6 +8,7 @@ categories: need for speed betas
 
 A list of links on archive.org, containing prototype builds of various Need For Speed games.
 
+* [Pre-HP2 Need For Speed games](https://archive.org/details/legacy_nfs_builds)
 * [Need for Speed Hot Pursuit 2 (2002)](https://archive.org/details/nfshp2_builds)
 * [Need For Speed Underground (2003)](https://archive.org/details/nfsu_builds)
 * [Need For Speed Underground 2 (2004)](https://archive.org/details/nfsu2_builds)
@@ -15,6 +16,7 @@ A list of links on archive.org, containing prototype builds of various Need For 
 * [Need For Speed Carbon (2006)](https://archive.org/details/nfsc_builds)
 * [Need For Speed ProStreet (2008)](https://archive.org/details/nfsps_builds)
 * [Need For Speed Shift (2009)](https://archive.org/details/nfss_builds)
+* [Need For Speed Nitro (2009](https://archive.org/details/nfsn_builds)
 * [Need For Speed Undercover (2009)](https://archive.org/details/nfsuc_builds)
 * [Need For Speed Hot Pursuit (2010)](https://archive.org/details/nfshp10_builds)
 * [Need For Speed The Run (2011)](https://archive.org/details/nfstr_builds)
