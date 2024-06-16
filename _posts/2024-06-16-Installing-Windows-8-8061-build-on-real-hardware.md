@@ -31,8 +31,8 @@ Thank god I had some common sense - apparently this tablet, for whatever reason,
 
 ## [Conclusion](#conclusion)
 So, to sum up, what is required to run this build?
- - You need ARM32 installation media - I used Windows 10 media builder from [Windows RT Devices GitBook](https://windows-rt-devices.gitbook.io/windows/tools/windows-media-builder), chose 4th option in setup mode and then swapped install.wim around.
- - A powered USB hub.
+ - You need ARM32 installation media - I used Windows 10 media builder from [Windows RT Devices GitBook](https://windows-rt-devices.gitbook.io/windows/tools/windows-media-builder), chose 4th option in setup mode and then swapped install.wim around. You can use [this](https://archive.org/details/win-8061-iso) ISO if you want.
+ - A powered USB hub and USB keyboard + mouse.
  - Tablet __MUST NOT__ have Yahallo jailbreak installed - this will make this build unbootable. Golden keys can be installed if you want.
 
 Huge thanks to Betawiki discord members for helping me with stupid questions when trying to run this build!
