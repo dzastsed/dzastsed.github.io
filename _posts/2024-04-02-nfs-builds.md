@@ -22,6 +22,7 @@ A list of links on archive.org, containing prototype builds of various Need For 
 * [Need For Speed The Run (2011)](https://archive.org/details/nfstr_builds)
 * [Need For Speed Most Wanted 2 (2012)](https://archive.org/details/need-for-speed-most-wanted-2-ps3-prototype-collection)
 * [Need For Speed Rivals (2013)](https://archive.org/details/nfsr_builds)
+* [Need For Speed (2015)](https://archive.org/details/nfs2015_builds)
 * [Need For Speed Heat (2019)](https://archive.org/details/nfsh_builds)
 
 ## Other
@@ -45,7 +46,7 @@ Here you can find miscellaneous demos, preloads, and other similar uploads.
 
 ## Credits
 
-- Demon/Damien - for dumping majority of those builds
+- Demon/Damien - for dumping/archiving majority of those builds
 - AlphaArchive MEGA for hosting majority of those builds so I didn't have to waste time link hunting
 - HiddenPalace - for some builds too
 - Vaporbooi - sending over some links of various demos and prototypes I missed
@@ -55,5 +56,6 @@ Here you can find miscellaneous demos, preloads, and other similar uploads.
 - Burninrubber0 - ea crew other archive version and uc build
 - lilpoop and blueskywestside - for archiving and reuploading majority of my megadrop
 - DAK - for making a good base structure of this page
+- Creedoo - for properly organising NFSW naming
 
 - And many others whose names I can't remember
