@@ -22,7 +22,7 @@ A list of links on archive.org, containing prototype builds of various Need For 
 * [Need For Speed The Run (2011)](https://archive.org/details/nfstr_builds)
 * [Need For Speed Most Wanted 2 (2012)](https://archive.org/details/need-for-speed-most-wanted-2-ps3-prototype-collection)
 * [Need For Speed Rivals (2013)](https://archive.org/details/nfsr_builds)
-* [Need For Speed (2015)](https://archive.org/details/nfs2015_builds) - cannot be uploaded at this point due to IA being read only
+* [Need For Speed (2015)](https://archive.org/details/nfs2015_builds)
 * [Need For Speed Heat (2019)](https://archive.org/details/nfsh_builds)
 
 ## Other
