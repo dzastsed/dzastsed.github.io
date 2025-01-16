@@ -38,6 +38,7 @@ After running the command `nmcli connection modify 'eduroam' 802-1x.phase1-auth-
 ## [Conclusion](#conclusion)
 So, to sum up, what is required to connect to eduroam?
  - You need some basic knowledge of terminal usage, and root password set up for your Steam Deck (plenty of guides online).
+ - This will also need you to disable readonly mode (also plenty of guides online).
  - Do the initial connection attempt via desktop mode, gaming mode will not work no matter what.
  - You need to switch network backend from `iwd` to `wpa-supplicant` (see [here](#a-new-hope)).
  - If it still refuses to connect, you need to modify `NetworkManager` config (see [here](#another-problem)).
