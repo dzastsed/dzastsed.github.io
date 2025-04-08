@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A (work in progress) Need for Speed beta build masterlist"
+title:  "Need for Speed beta build masterlist"
 date:   2024-04-02 18:48:30 +0200
 categories: need for speed betas
 ---
@@ -57,5 +57,6 @@ Here you can find miscellaneous demos, preloads, and other similar uploads.
 - lilpoop and blueskywestside - for archiving and reuploading majority of my megadrop
 - DAK - for making a good base structure of this page
 - Creedoo - for properly organising NFSW naming
+- Chrome - NFS Undercover debug menu patch
 
 - And many others whose names I can't remember
