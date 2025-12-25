@@ -52,12 +52,14 @@ Here you can find miscellaneous demos, preloads, and other similar uploads.
 - HiddenPalace - for some builds too
 - Vaporbooi - sending over some links of various demos and prototypes I missed
 - Speedyheart - some mw12 builds
-- Gzilla - nfs heat/payback related stuff
+- Gzilla - nfs heat/payback related stuff, recovering mw2 stuff
 - Micky/EmilisB - mw12 and rivals builds
 - Burninrubber0 - ea crew other archive version and uc build
 - lilpoop and blueskywestside - for archiving and reuploading majority of my megadrop
 - DAK - for making a good base structure of this page
 - Creedoo - for properly organising NFSW naming
 - Chrome - NFS Undercover debug menu patch
+- Jason098 - patching and helping me learn how to patch mw2 builds
+- Uncode - collaboration with mw2 patches
 
 - And many others whose names I can't remember
