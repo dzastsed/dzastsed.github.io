@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: stories-guides
+summary: A small story of how I dumped an old car infotainment center's HDD.
 ---
 
 ## Table of contents:
@@ -14,9 +15,9 @@ This will be a slightly different post, more of a self-log of what I've done.
 
 A week or so ago I received a long awaited purchase of mine - an old-ass Alpine car stereo with a flipout display (basically the best swag you could get 20 years ago), and with it another thing was included - a HDD navigation unit NVA-HD55. After connecting everything together to test on my table, everything of course worked perfectly (like majority of used electronics from Japan - many people there really take proper care of things). Take a look yourself: 
 
-![nva1](https://github.com/dzastsed/dzastsed.github.io/blob/main/_pictures/alpine_pics/nva1.png?raw=true)
+![nva1]({{ '/_pictures/alpine_pics/nva1.png' | relative_url }})
 
-![nva2](https://github.com/dzastsed/dzastsed.github.io/blob/main/_pictures/alpine_pics/nva2.png?raw=true)  
+![nva2]({{ '/_pictures/alpine_pics/nva2.png' | relative_url }})  
 
 See how it has music on it? This is what spiked my curiosity in dumping the HDD contents and digging into it's files. Of course, this wasn't so easy.
 

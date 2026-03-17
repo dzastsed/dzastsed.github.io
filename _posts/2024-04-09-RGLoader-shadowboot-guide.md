@@ -1,6 +1,7 @@
 ---
 layout: post
 category: guides
+summary: "Practical RGLoader shadowboot setup guide for Xbox 360 devkits."
 ---
 
 ## Table of contents:

@@ -1,6 +1,7 @@
 ---
 layout: post
 category: guides
+summary: "Guide for dumping Xbox 360 XDK NAND and retrieving CPU key."
 ---
 ## Table of contents
 
@@ -62,11 +63,11 @@ Follow [this](https://dzastsed.github.io/rgloader-shadowboot-guide.html) guide t
 
 Copy over Xell Launch files to your console (recommended path is still `HDD:/Devkit/`). Now, simply launch it with `default.xex` and wait until it shows this screen:
 
-![xell](https://github.com/dzastsed/dzastsed.github.io/blob/main/_pictures/nand_guide/xell.jpg?raw=true)
+![xell]({{ '/_pictures/nand_guide/xell.jpg' | relative_url }})
 
 Now, either write down the CPU key that is provided, or connect to console's IP address in browser, and copy it out of there.
 
-![xell-webui](https://github.com/dzastsed/dzastsed.github.io/blob/main/_pictures/placeholder.png?raw=true)
+![xell-webui]({{ '/_pictures/placeholder.png' | relative_url }})
 
 > After getting the key, I highly recommend verifying that it is correct by loading NAND image in [JRunner](https://github.com/Octal450/J-Runner-with-Extras).
 

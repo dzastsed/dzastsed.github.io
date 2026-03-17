@@ -11,6 +11,14 @@
     {%- endif -%}
   </title>
 
+  {%- assign embed_description = page.summary | default: page.description -%}
+  {%- if embed_description -%}
+    {%- assign embed_description = embed_description | strip_html | normalize_whitespace | escape -%}
+    <meta name="description" content="{{ embed_description }}" />
+    <meta property="og:description" content="{{ embed_description }}" />
+    <meta name="twitter:description" content="{{ embed_description }}" />
+  {%- endif -%}
+
   {%-seo title=false-%}
   {%-feed_meta-%}
 

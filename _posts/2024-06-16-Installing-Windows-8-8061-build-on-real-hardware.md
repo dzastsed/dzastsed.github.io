@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: stories-guides
+summary: "Windows 8 8061 build installation guide"
 ---
 ## Table of contents:
 - [Backstory](#backstory)
@@ -19,15 +20,15 @@ Then another problem came - how to install it? There's only guides for QEMU with
 Well believe it or not, after installation it did boot! Unfortunately the betta fish bootscreen was replaced by stock Surface bootscreen but eh, whatever, as long as it works.
 
 Anyway, there's yet another problem - due to this build being so early, it barely supports this hardware, so touchscreen or attachable keyboard obviously don't work. So I was stuck on this part:
-![surface_1](https://github.com/dzastsed/dzastsed.github.io/blob/main/_pictures/surface_pics/surface_1.png?raw=true)
+![surface_1]({{ '/_pictures/surface_pics/surface_1.png' | relative_url }})
 
 As I was in my university dorm with no USB keyboard, I could not proceed further. USB mouse would not work either, so this had to be slept on for a few weeks. Fast forward to two days ago and I am back on this project - got USB keyboard, buuut.... stil nothing. So what's the issue here?
-![surface_2](https://github.com/dzastsed/dzastsed.github.io/blob/main/_pictures/surface_pics/surface_2.png?raw=true)
+![surface_2]({{ '/_pictures/surface_pics/surface_2.png' | relative_url }})
 
 Okay, so I need to use an USB hub, no problem. But wait, it still does not work? 
 
 Thank god I had some common sense - apparently this tablet, for whatever reason, would not output enough power for keyboard while booted in Windows, so I needed a powered hub! And sure enough, this was finally enough, and I was able to finish the OOBE and it finally booted into the desktop!
-![surface_3](https://github.com/dzastsed/dzastsed.github.io/blob/main/_pictures/surface_pics/surface_3.jpg?raw=true)
+![surface_3]({{ '/_pictures/surface_pics/surface_3.jpg' | relative_url }})
 
 ## [Conclusion](#conclusion)
 So, to sum up, what is required to run this build?

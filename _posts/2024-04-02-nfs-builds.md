@@ -3,6 +3,7 @@ layout: post
 title:  "Need for Speed beta build masterlist"
 date:   2024-04-02 18:48:30 +0200
 categories: need for speed betas
+summary: "A list of links on archive.org, containing prototype builds of various Need For Speed games."
 ---
 # Need For Speed: Master List of Prototype Builds
 

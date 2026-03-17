@@ -1,6 +1,7 @@
 ---
 layout: post
 categories: stories-guides
+summary: "A story about how I fixed eduroam on SteamOS"
 ---
 ## Table of contents:
 - [Backstory](#backstory)
@@ -15,17 +16,17 @@ Back in late 2024 I obtained a Steam Deck, and first thing I wanted to do with i
 After a LOT of research, results were fruitless. Many attempts were done - dumping network certificate with other distro, trying to modify cat.eduroam.org login script to match my university's (mine does not have support for it :\)\)\) asked our IT admin to add support but they basically told me to gtfo, go figure), using university's official guide (which is almost 10 years old), but nothing worked. Then, I asked the best resource on the internet - reddit.
 ## [A new hope?](#a-new-hope)
 Surprisingly, I got a suggestion to try something I didn't see in other troubleshooting threads:
-![steamdeck_1](https://github.com/dzastsed/dzastsed.github.io/blob/main/_pictures/steam_deck/post.png?raw=true)
+![steamdeck_1]({{ '/_pictures/steam_deck/post.png' | relative_url }})
 
 It turned out that SteamOS (and Arch and probably many of its derivatives?) uses `iwd` instead of `wpa-supplicant` as default Wi-Fi backend.
 So I immediately tried this. I first did it the dumb way - switched via terminal using guides from Arch wiki. Turns out there's an easier way! Just enable Developer settings and switch it in developer options:
 
-![steamdeck_2](https://github.com/dzastsed/dzastsed.github.io/blob/main/_pictures/steam_deck/switch.jpg?raw=true)
+![steamdeck_2]({{ '/_pictures/steam_deck/switch.jpg' | relative_url }})
 ## [Another problem](#another-problem)
 Welp, turns out this did not help either. It would progress further in connecting, but would still stop and ask for my password. So what's the issue here?
 
 Looking at `wpa-supplicant` logs, it seems that there is some sort of SSL protocol issue:
-![steamdeck_3](https://github.com/dzastsed/dzastsed.github.io/blob/main/_pictures/steam_deck/logs.jpg?raw=true)
+![steamdeck_3]({{ '/_pictures/steam_deck/logs.jpg' | relative_url }})
 
 So how do we fix this?
 
@@ -33,7 +34,7 @@ Thankfully, [Arch wiki](https://wiki.archlinux.org/title/Wpa_supplicant#Problems
 
 After running the command `nmcli connection modify 'eduroam' 802-1x.phase1-auth-flags 32` and restarting the service with `sudo systemctl restart NetworkManager` I got my Steam Deck successfully connecting to eduroam.
 
-![steamdeck_4](https://github.com/dzastsed/dzastsed.github.io/blob/main/_pictures/steam_deck/success.jpg?raw=true)
+![steamdeck_4]({{ '/_pictures/steam_deck/success.jpg' | relative_url }})
 
 ## [Conclusion](#conclusion)
 So, to sum up, what is required to connect to eduroam?
