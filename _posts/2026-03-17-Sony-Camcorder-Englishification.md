@@ -7,9 +7,9 @@ summary: "A story about how I successfully language swapped a JDM camcorder"
 ## Table of contents:
 - [Intro](#intro)
 - [Initial research](#initial-research)
-- [Revisiting the idea](#revisit)
-- [Success..?](#successfaux)
-- [Actual success](#success)
+- [Revisiting the idea](#revisiting-the-idea)
+- [Success..?](#success-question)
+- [Actual success](#actual-success)
 
 ## [Intro](#intro)
 ### My new hobby
@@ -31,7 +31,7 @@ See how it shows a way of setting a region in "Destination" field? This is where
 
 Sooooo yeah, this, what seemed to me at that time, the only option was a complete dead end, so I decided to just deal with it and keep using this camcorder with Japanese text. Surprisingly it is quite usable because menus have icons so you more or less can understand where is what. But I still couldnt live with the idea that I can't understand what's written everywhere.
 
-## [Revisiting the idea](#revisit)
+## [Revisiting the idea](#revisiting-the-idea)
 Remember how I mentioned a tool called "Sony-PMCA-RE"? Well, a few weeks ago I decided to read it's documentation for a little bit, and noticed one small detail: ![Supported devices list]({{ '/_pictures/modding_unmoddable/pmca-supported-devices.png' | relative_url }})
 *Wait a minute, an even older HDD camcorder is in the supported devices list?*
 
@@ -48,7 +48,7 @@ Yup, language files. I copied some of them out, and then did the easiest trick i
 
 Jason asked me if I could dump some of `Fsk` executable files (Fsk is probably the internal name of camera UI?) for RE to possibly enable language selector, and while I could dump smaller ones just fine, bigger than 1009kb files would not. With his help I had to split some files into multiple parts to successfuly copy them, and this was weird, probably a poor implementation of service shell access, but I paid no mind to it. Anyhow RE attempt was unsuccessful, so I decided to stick with fileswap method.
 
-## [Success..?](#successfaux)
+## [Success..?](#success-question) {#success-question}
 
 ![Partially translated UI]({{ '/_pictures/modding_unmoddable/partial-success-screen.png' | relative_url }})
 *g symbol and press the OK*
@@ -59,7 +59,7 @@ Well, motivation because I achieved something I thought to be impossible shot it
 
 On this I worked for a few days straight - but I couldnt get the pattern on how those broken strings work - it was really weird. So my motivation slowly burned out.
 
-## [Actual success](#success)
+## [Actual success](#actual-success) {#actual-success}
 Yesterday I decided to pick this up again, made my own localization language file to figure out some missing string locations, and went to work. But then I made a weird discovery - after resetting Japanese language file to original one I dumped, it also displayed everything wrong????? What the hell happened?
 
 I asked for Edness's help on figuring out what the hell happened, and he immediately pointed out his initial confusion from 2 weeks ago as to why language files have a few pointers to adresses which are outside of the file (we (mostly I) thought that this is a leftover from prototype stages, or something else), so I went to check, if file sizes were different of my dumped, and onboard file. Sure enough, they were.
