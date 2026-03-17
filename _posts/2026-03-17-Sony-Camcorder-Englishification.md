@@ -83,4 +83,6 @@ A few things I could think of are:
 ### Conclusion
 What can I say - don't fear to experiment with things you are genuinely interested in, who knows what you might achieve. I for one am extremely happy that I managed to do something that others told me is not possible.
 
+Feel free to visit [this](https://github.com/dzastsed/HDR-SR12-translation) repo for instructions how to do this yourself.
+
 Huge thanks to Jason and Edness - without your ideas I would've probably been stuck at trying to fix that broken language file, if I'd even reached that part.
